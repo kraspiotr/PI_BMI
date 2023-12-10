@@ -12,6 +12,7 @@ Grupa:
 6. Natalia Magiera
 7. Piotr Oleksy
 
+
 =======
 
 BMI zostało stworzone przez belgijskiego statystyka, Adolfa Queteleta, zajmował się on analizą zależności pomiędzy wzrostem i wagą ciała człowieka. Pozwoliło to  ocenić, czy masa naszego ciała jest prawidłowa, w efekcie czego wiemy, czy prowadzony przez nas styl życia i stosowana dieta są odpowiednie.
@@ -45,3 +46,7 @@ Ryzyka chorobowe:
 BMI poniżej normy (niedowaga) - Niedowaga może być związana z niedoborem składników odżywczych, osłabieniem układu immunologicznego, zaburzeniami hormonalnymi, a także zwiększonym ryzykiem złamań kości i innych problemów zdrowotnych.
 BMI w normie - Wartości BMI w normie nie oznaczają, że osoba nie ma ryzyka chorób. Inne czynniki, takie jak styl życia, genetyka, dieta i poziom aktywności fizycznej, także wpływają na zdrowie.
 BMI powyżej normy (nadwaga i otyłość) - Nadwaga i otyłość są związane z zwiększonym ryzykiem wielu chorób, w tym chorób serca, cukrzycy typu 2, niektórych rodzajów raka, chorób układu oddechowego i problemów związanych z układem kostnym.
+=======
+
+Wskaźnik BMI, nazywany także indeksem masy ciała, został stworzony przez statystyka Adolfa Queteleta w 1832 roku. Belg początkowo chciał ujednolicić przyczyny zgonów w poszczególnych krajach oraz dążył do określenia kształtu przeciętnego człowieka, natomiast w trakcie badań odkrył pewną zależność i wysnuł wniosek, że ludzka waga rośnie w sposób proporcjonalny do kwadratu wzrostu. Dzięki temu wskaźnik BMI pozwala określić, czy waga naszego ciała jest prawidłowa.
+
