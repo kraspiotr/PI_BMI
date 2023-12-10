@@ -17,7 +17,6 @@ Grupa:
 BMI zostało stworzone przez belgijskiego statystyka, Adolfa Queteleta, zajmował się on analizą zależności pomiędzy wzrostem i wagą ciała człowieka. Pozwoliło to  ocenić, czy masa naszego ciała jest prawidłowa, w efekcie czego wiemy, czy prowadzony przez nas styl życia i stosowana dieta są odpowiednie.
 =======
 
-Wskaźnik BMI, nazywany także indeksem masy ciała, został stworzony przez statystyka Adolfa Queteleta w 1832 roku. Belg początkowo chciał ujednolicić przyczyny zgonów w poszczególnych krajach oraz dążył do określenia kształtu przeciętnego człowieka, natomiast w trakcie badań odkrył pewną zależność i wysnuł wniosek, że ludzka waga rośnie w sposób proporcjonalny do kwadratu wzrostu. Dzięki temu wskaźnik BMI pozwala określić, czy waga naszego ciała jest prawidłowa
 
 
 Zakresy BMI:
