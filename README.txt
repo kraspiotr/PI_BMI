@@ -26,3 +26,16 @@ Zakresy BMI:
 - otyłość duża: 35 - 39.99
 - otyłość chorobliwa: BMI >= 40
 
+
+
+Ryzyka chorobowe związane z nieprawisłowymi wartościami BMI:
+Zbyt niskia wartość BMI:
+1.Niedobory pokarmowe
+2.Osteoporoza
+3.Zaburzenia hormonalne
+
+Zbyt wysokie BMI:
+1.Choroby sercowo-naczyniowe
+2.Cukrzyca
+3.Problemy z układem oddechowym
+4.Choroby stawów
