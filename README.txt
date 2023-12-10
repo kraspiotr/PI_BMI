@@ -11,3 +11,8 @@ Grupa:
 5. Piotr Kras
 6. Natalia Magiera
 7. Piotr Oleksy
+
+Kto stworzył wskaźnik BMI i po co?
+
+Wskaźnik BMI został opracowany przez belgijskiego statystyka Adola Queteleta w XIX wieku, a opisany po raz pierwszy w 1832 roku. 
+Quetelet jako statystyk i socjolog pracował nad stworzeniem prostego narzędzia do oceny ogólnego stanu zdrowia populacji na podstawie masy ciała i wzrostu. 
