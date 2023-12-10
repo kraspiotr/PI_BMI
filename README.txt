@@ -11,3 +11,5 @@ Grupa:
 5. Piotr Kras
 6. Natalia Magiera
 7. Piotr Oleksy
+
+BMI zostało stworzone przez belgijskiego statystyka, Adolfa Queteleta, zajmował się on analizą zależności pomiędzy wzrostem i wagą ciała człowieka. Pozwoliło to  ocenić, czy masa naszego ciała jest prawidłowa, w efekcie czego wiemy, czy prowadzony przez nas styl życia i stosowana dieta są odpowiednie.
