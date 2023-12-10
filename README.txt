@@ -13,6 +13,9 @@ Grupa:
 7. Piotr Oleksy
 
 
+BMI zostało stworzone przez belgijskiego statystyka, Adolfa Queteleta, zajmował się on analizą zależności pomiędzy wzrostem i wagą ciała człowieka. Pozwoliło to  ocenić, czy masa naszego ciała jest prawidłowa, w efekcie czego wiemy, czy prowadzony przez nas styl życia i stosowana dieta są odpowiednie.
+=======
+
 Zakresy BMI:
 - wygłodzenie: BMI < 16
 - wychudzenie: 16 - 16.99
@@ -22,3 +25,4 @@ Zakresy BMI:
 - otyłość: 30 - 34.99
 - otyłość duża: 35 - 39.99
 - otyłość chorobliwa: BMI >= 40
+
